@@ -1,13 +1,3 @@
-/* Name: Manpreet Kaur
-   Login Name: mka111@sfu.ca*/
-
-/* I have tested my file with all the five testcases, and it always gave me the desired result
-   By running my file on remote machine, and then checking http://csil-cpu6.csil.sfu.ca:6789/index.html
-	 gave me index.html file and http://csil-cpu6.csil.sfu.ca:6789/sfu.jpg and http://csil-cpu6.csil.sfu.ca:6789/sfu.gif and
-	 http://csil-cpu6.csil.sfu.ca:6789/sub/sub.html gave me respective images and http://csil-cpu6.csil.sfu.ca:6789/sub/notexist.html
-	 showed the error message. For the test5, when I ran the test case by issuing ./test5,it gave me
-	 10 archive.zip files and wget-log files. */
-
 import java.io.*;
 import java.net.*;
 import java.util.*;
